@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">👾 Welcome to My Developer Universe! 👾<br><br>✨ Creating Bugs since 2016<br>📚 Currently Learning Next Js & Data Science Concepts<br>🧠 Lifelong Learner: Fueled by Curiosity and Caffeine<br>📖 Bookworm Programmer: Finding Code Inspiration in Unlikely Pages<br>👯 I’m looking to collaborate on interesting projects <br>🧩 Problem-Solving Prodigy: Turning Complex Puzzles into Elegant Code<br><be> 🥇 Pursuing Master's in Data Science at State University New York (SUNY) at Buffalo <br>
+<p align="left">👾 Welcome to My Developer Universe! 👾<br><br>✨ Creating Bugs since 2016<br>📚 Currently Learning Next Js & Data Science Concepts<br>🧠 Lifelong Learner: Fueled by Curiosity and Caffeine<br>📖 Bookworm Programmer: Finding Code Inspiration in Unlikely Pages<br>👯 I’m looking to collaborate on interesting projects <br>🧩 Problem-Solving Prodigy: Turning Complex Puzzles into Elegant Code<br><be> 🥇 Pursuing Master's in Data Science at State University New York (SUNY) at Buffalo, United States <br>
 👨‍💼 Ex-Dashclicks | Ex-Wipro | VIT Alumni, India<br><br>https://www.vaibhavbansal.in<br><br>🛸 Join Me on My Coding Odyssey! 🛸</p>
 
 ###
