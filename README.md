@@ -54,6 +54,15 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="40" alt="firebase logo"  />
   <img width="12" />
+
+  <p className="seo-heading">LeetCode Profile:</p><br/>
+    <p>
+    <a href="https://leetcode.com/vaibhav_bansal26/" className="seo-link">
+      <img src={`https://leetcard.jacoblin.cool/vaibhav_bansal26?theme=light&font=Gowun%20Batang&ext=heatmap&border=0`} alt="leetcode"/>
+    </a>
+    <br />
+  </p>
+                            
 </div>
 
 ###
