@@ -3,7 +3,7 @@
 ###
 <!--![](https://komarev.com/ghpvc/?username=VaibhavBansal26)-->
 
-<p align="left">My name is Vaibhav Bansal and I'm a Software Developer from India</p>
+<p align="left">My name is Vaibhav Bansal and I'm a Software Developer and an Aspiring Data Scientist from India</p>
 
 ###
 
