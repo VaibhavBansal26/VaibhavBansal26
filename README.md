@@ -55,8 +55,6 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="40" alt="firebase logo"  />
   <img width="12" />
-   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/airflow/airflow.svg" height="40" alt="firebase logo"  />
-  <img width="12" />
                             
 </div>
 
