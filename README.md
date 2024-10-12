@@ -12,6 +12,7 @@
 ###
 
 <p align="left">👾 Welcome to My Developer Universe! 👾<br><br>✨ Creating Bugs since 2016<br>📚 Currently Learning Next Js & Data Science Concepts<br>🧠 Lifelong Learner: Fueled by Curiosity and Caffeine<br>📖 Bookworm Programmer: Finding Code Inspiration in Unlikely Pages<br>👯 I’m looking to collaborate on interesting projects <br>🧩 Problem-Solving Prodigy: Turning Complex Puzzles into Elegant Code<br><be> 🥇 Pursuing Master's in Data Science at <strong>State University New York (SUNY)<strong> at Buffalo, United States <br>
+🥇 Graduate Teaching Assistant for Course Programming and Database Fundamentals for Data Scientists (EAS 503) at University at Buffalo, NY, United States <br>
 👨‍💼 Ex-Dashclicks | Ex-Wipro | VIT Alumni, India<br><br>🔤 leet code : https://leetcode.com/vaibhav_bansal26/<br><br>😃 Profile: https://www.vaibhavbansal.in<br><br>🛸 Join Me on My Coding Odyssey! 🛸</p>
 
 ###
