@@ -58,7 +58,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="40" alt="firebase logo"  />
   <img width="12" />
 
- [![My Skills](https://skillicons.dev/icons?i=kafka,aws,ts,terraform,tensorflow,postgres,postman,mongodb,jenkins,flask,azure,kubernetes)](https://skillicons.dev)
+ [![My Skills](https://skillicons.dev/icons?i=kafka,aws,ts,terraform,tensorflow,postgres,postman,mongodb,jenkins,flask,azure,kubernetes&theme=light)](https://skillicons.dev)
                             
 </div>
 
