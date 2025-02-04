@@ -11,7 +11,7 @@
 
 ###
 
-<p align="left">👾 Welcome to My Developer Universe! 👾<br><br>✨ Creating Bugs since 2016<br>📚 Currently Learning Next Js & Data Science Concepts<br>🧠 Lifelong Learner: Fueled by Curiosity and Caffeine<br>📖 Bookworm Programmer: Finding Code Inspiration in Unlikely Pages<br>👯 I’m looking to collaborate on interesting projects <br>🧩 Problem-Solving Prodigy: Turning Complex Puzzles into Elegant Code<br><br> 🥇 Pursuing Master's in Data Science at <strong>State University New York (SUNY)</strong> at Buffalo, United States <br>
+<p align="left">👾 Welcome to My Developer Universe! 👾<br><br>✨ Creating Bugs since 2016<br>📚 Currently Learning Next Js & Data Science Concepts<br>🧠 Lifelong Learner: Fueled by Curiosity and Caffeine<br>👯 I’m looking to collaborate on interesting projects <br><br> 🥇 Pursuing Master's in Data Science at <strong>State University New York (SUNY)</strong> at Buffalo, United States <br>
 🥇 <strong> Graduate Teaching Assistant </strong> for Course - Programming and Database Fundamentals for Data Scientists (EAS 503 - Fall 2024) <br>    at University at Buffalo, NY, United States <br>
 🥇 <strong> Graduate Teaching Assistant </strong> for Course - Applied Machine Learning At Scale (CDA 500LEC - Spring 2025)<br>     at University at Buffalo, NY, United States <br>
 👨‍💼 <strong>Ex-Dashclicks | Ex-Wipro | VIT Alumni, India<br> 
