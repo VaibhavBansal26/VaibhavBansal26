@@ -14,7 +14,7 @@
 <p align="left">✨ Creating Bugs since 2016<br>📚 Currently Learning Next Js & Data Science Concepts<br>🧠 Lifelong Learner: Fueled by Curiosity and Caffeine <br><br> 🥇 Pursuing <strong>Master's in Data Science </strong> at <strong>State University New York (SUNY)</strong> at Buffalo, United States<br>
 🥇 <strong> Graduate Teaching Assistant </strong> for Course - Programming and Database Fundamentals for Data Scientists (EAS 503 - Fall 2024) <br>    at University at Buffalo, NY, United States <br>
 🥇 <strong> Graduate Teaching Assistant </strong> for Course - Applied Machine Learning At Scale (CDA 500LEC - Spring 2025)<br>     at University at Buffalo, NY, United States <br>
-👨‍💼 <strong>Ex-Dashclicks | Ex-Wipro | VIT Alumni, India<br> 
+👨‍💼 <strong> Ex-Dashclicks | Ex-Wipro | VIT Alumni, India<br> 
   <br>😃 My Website Profile: https://www.vaibhavbansal.in<br>
   <br>🔤 LeetCode : https://leetcode.com/vaibhav_bansal26<br>
   <br>
