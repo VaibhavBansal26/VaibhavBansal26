@@ -27,14 +27,9 @@
 
 <img src="https://learn.microsoft.com/media/learn/certification/badges/microsoft-certified-fundamentals-badge.svg?branch=main" width="150"/>
 <img src="https://images.credly.com/size/220x220/images/e5c85d7f-4e50-431e-b5af-fa9d9b0596e7/image.png" width="150" />
-
 ###
-###
-<br>
 <h2 align="left">I code with</h2>
-
 ###
-
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
   <img width="12" />
