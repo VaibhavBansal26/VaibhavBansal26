@@ -21,9 +21,14 @@
    <img src="https://leetcard.jacoblin.cool/vaibhav_bansal26?theme=light&font=Gowun%20Batang&ext=heatmap&border=0"} alt="leetcode"/>
   <br>
 
+<h2 align="left">Cloud Certification</h2>
+
+###
 
 <img src="https://learn.microsoft.com/media/learn/certification/badges/microsoft-certified-fundamentals-badge.svg?branch=main" width="150">
 <img src="https://images.credly.com/size/220x220/images/e5c85d7f-4e50-431e-b5af-fa9d9b0596e7/image.png" width="150 >
+
+###
 
 ###
 
