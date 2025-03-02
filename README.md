@@ -21,6 +21,8 @@
    <img src="https://leetcard.jacoblin.cool/vaibhav_bansal26?theme=light&font=Gowun%20Batang&ext=heatmap&border=0"} alt="leetcode"/>
   <br>
 
+![Azure](https://learn.microsoft.com/media/learn/certification/badges/microsoft-certified-fundamentals-badge.svg?branch=main)
+
 ###
 
 <h2 align="left">I code with</h2>
