@@ -16,6 +16,10 @@
 🥇 <strong> Graduate Teaching Assistant </strong> for Course - Applied Machine Learning At Scale (CDA 500LEC - Spring 2025)<br>     at University at Buffalo, NY, United States <br>
 👨‍💼 <strong> Ex-Dashclicks | Ex-Wipro | VIT Alumni, India<br> 
   <br>😃 My Website Profile: https://www.vaibhavbansal.in<br>
+
+
+###
+
   <br>🔤 LeetCode : https://leetcode.com/vaibhav_bansal26<br>
   <br>
    <img src="https://leetcard.jacoblin.cool/vaibhav_bansal26?theme=light&font=Gowun%20Batang&ext=heatmap&border=0"} alt="leetcode"/>
@@ -30,6 +34,8 @@
 
 ###
 ###
+
+
 ###
 
 <h2 align="left">I code with</h2>
