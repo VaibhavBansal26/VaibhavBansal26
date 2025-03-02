@@ -19,7 +19,7 @@
 
   <br>🔤 LeetCode : https://leetcode.com/vaibhav_bansal26<br>
   <br>
-   <img src="https://leetcard.jacoblin.cool/vaibhav_bansal26?theme=light&font=Gowun%20Batang&ext=heatmap&border=0"} alt="leetcode"/>
+   <img src="https://leetcard.jacoblin.cool/vaibhav_bansal26?theme=light&font=Gowun%20Batang&ext=heatmap&border=0" alt="leetcode"/>
   <br>
 
 <h2 align="left">Cloud Certification</h2>
