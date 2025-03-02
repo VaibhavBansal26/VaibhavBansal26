@@ -17,7 +17,6 @@
 👨‍💼 <strong> Ex-Dashclicks | Ex-Wipro | VIT Alumni, India<br> 
   <br>😃 My Website Profile: https://www.vaibhavbansal.in<br>
 
-<h2 align="left">LeetCode</h2>
   <br>🔤 LeetCode : https://leetcode.com/vaibhav_bansal26<br>
   <br>
    <img src="https://leetcard.jacoblin.cool/vaibhav_bansal26?theme=light&font=Gowun%20Batang&ext=heatmap&border=0" alt="leetcode"/>
@@ -27,13 +26,12 @@
 
 ###
 
-<img src="https://learn.microsoft.com/media/learn/certification/badges/microsoft-certified-fundamentals-badge.svg?branch=main" width="150">
-<img src="https://images.credly.com/size/220x220/images/e5c85d7f-4e50-431e-b5af-fa9d9b0596e7/image.png" width="150 >
+<img src="https://learn.microsoft.com/media/learn/certification/badges/microsoft-certified-fundamentals-badge.svg?branch=main" width="150"/>
+<img src="https://images.credly.com/size/220x220/images/e5c85d7f-4e50-431e-b5af-fa9d9b0596e7/image.png" width="150" />
 
 ###
 ###
-<br/>
-
+<br>
 <h2 align="left">I code with</h2>
 
 ###
