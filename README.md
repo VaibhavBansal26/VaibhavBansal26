@@ -1,4 +1,4 @@
-<h1 align="left">Hey 👋 What's up?</h1>
+<h1 align="left">Vaibhav Bansal</h1>
 
 ###
 <!--![](https://komarev.com/ghpvc/?username=VaibhavBansal26)-->
