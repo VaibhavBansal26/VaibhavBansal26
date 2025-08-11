@@ -3,7 +3,7 @@
 ###
 <!--![](https://komarev.com/ghpvc/?username=VaibhavBansal26)-->
 
-<p align="left">My name is Vaibhav Bansal and I'm a Software Developer and an Aspiring Data Scientist from India.</p>
+<p align="left">I am a Software Developer and Data Scientist with 4+ years of experience and an M.S. in Data Science from State University of New York (SUNY) at Buffalo. At Dashclicks India Ltd and Wipro Technologies Ltd, I honed my software development expertise, architecting and deploying scalable, user-centric applications using Python, Java, React, Docker, and AWS that drove measurable business impact.</p>
 
 ###
 
