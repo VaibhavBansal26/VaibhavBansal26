@@ -3,7 +3,7 @@
 ###
 <!--![](https://komarev.com/ghpvc/?username=VaibhavBansal26)-->
 
-<p align="left">Software Engineer and AI Engineer with 5+ years of experience building scalable applications and AI powered systems, backed by an M.S. in Data Science from the State University of New York at Buffalo. Experienced in architecting and deploying production grade platforms using Python, Java, React, Docker, AWS, and cloud native technologies that drive measurable business impact and improve user experience at scale.</p>
+<p align="left">Software Engineer and AI Engineer with 5+ years of experience building scalable applications and AI powered systems, backed by an M.S. from the State University of New York at Buffalo. Experienced in architecting and deploying production grade platforms using Python, Java, React, Docker, AWS, and cloud native technologies that drive measurable business impact and improve user experience at scale.</p>
 
 <p>Passionate about modern AI driven development, leveraging GitHub Copilot, LLM based architectures, Retrieval Augmented Generation (RAG), and AI assisted “vibe coding” workflows to accelerate product development and deliver intelligent, user centric solutions. Combines strong software engineering fundamentals with applied AI to design systems that are reliable, scalable, and production ready.</p>
 
