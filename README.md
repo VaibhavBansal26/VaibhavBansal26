@@ -15,6 +15,7 @@
 🥇 <strong> Research Assistant </strong> at University at Buffalo, NY, <strong>United States</strong> <br>
 🥇 <strong> Graduate Teaching Assistant </strong> for Course - Programming and Database Fundamentals for Data Scientists (EAS 503 - Fall 2024) <br>    at University at Buffalo, NY, <strong>United States</strong> <br>
 🥇 <strong> Graduate Student Assistant </strong> for Course - Applied Machine Learning At Scale (CDA 500LEC - Spring 2025)<br>     at University at Buffalo, NY, United States <br>
+🥇 <strong>Master's of Science in Engineering and Data Science </strong> at <strong>State University New York at Buffalo </strong> at Buffalo, New York <strong>United States</strong><br>
 🥇 <strong>Bachelor's of Technology in Computer Science and Engineering </strong> at <strong>Vellore Institute of Technology (VIT University)</strong> at Vellore, <strong>India</strong><br>
 👨‍💼 <strong> Ex-Dashclicks | Ex-Wipro | VIT Alumni, India<br> 
   <br>😃 My Website Profile: https://www.vaibhavbansal.in<br>
