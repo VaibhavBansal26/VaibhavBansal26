@@ -13,7 +13,7 @@
 
 ###
 
-<p align="left">✨ Creating Bugs since 2016<br>📚 Currently Learning Next Js & Data Science Concepts<br>🧠Lifelong Learner: Fueled by Curiosity and Caffeine <br><br> 
+<p align="left">✨ Creating Bugs since 2016<br>🧠Lifelong Learner: Fueled by Curiosity and Caffeine <br><br> 
 🥇 <strong> Research Assistant </strong> at University at Buffalo, NY, <strong>United States</strong> <br>
 🥇 <strong> Graduate Teaching Assistant </strong> for Course - Programming and Database Fundamentals for Data Scientists (EAS 503 - Fall 2024) <br>    at University at Buffalo, NY, <strong>United States</strong> <br>
 🥇 <strong> Graduate Student Assistant </strong> for Course - Applied Machine Learning At Scale (CDA 500LEC - Spring 2025)<br>     at University at Buffalo, NY, United States <br>
