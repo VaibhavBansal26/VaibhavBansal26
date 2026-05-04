@@ -116,7 +116,7 @@
 ## 🏛 Experience
 
 ```
-🔬  Research Assistant           University at Buffalo, NY       2024 – Present
+🔬  Research Assistant           University at Buffalo, NY       2025 – Present
 📚  Graduate Student Assistant   Applied ML at Scale (CDA 500)   Spring 2025
 🎓  Teaching Assistant           Programming & DB Fundamentals   Fall 2024
 💼  Software Engineer            DashClicks                      Past
