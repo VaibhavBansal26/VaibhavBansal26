@@ -46,7 +46,7 @@
  │  FRONTEND        React · Next.js · TypeScript · TailwindCSS      │
  │  BACKEND         Python · Java · Node.js · Flask                 │
  │  CLOUD & INFRA   AWS · Azure · Docker · Kubernetes · Terraform   │
- │  DATA            PostgreSQL · MongoDB · Kafka · Firebase · Redis  │
+ │  DATA            PostgreSQL · MongoDB · Kafka · Firebase · Redis │
  │  DEVOPS          Jenkins · Git · Postman · CI/CD                 │
  └──────────────────────────────────────────────────────────────────┘
 ```
