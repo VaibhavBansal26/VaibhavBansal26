@@ -117,10 +117,11 @@
 
 ```
 🔬  Research Assistant           University at Buffalo, NY       2025 – Present
+🎓  M.S. Engineering Science     University at Buffalo, NY       Alumni
 📚  Graduate Student Assistant   Applied ML at Scale (CDA 500)   Spring 2025
 🎓  Teaching Assistant           Programming & DB Fundamentals   Fall 2024
 💼  Software Engineer            DashClicks                      Past
-🏢  Software Engineer            Wipro                           Past
+🏢  Project Engineer             Wipro                           Past
 🎓  B.Tech CSE                   VIT University, India           Alumni
 ```
 
