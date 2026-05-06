@@ -48,6 +48,7 @@
  │  CLOUD & INFRA   AWS · Azure · Docker · Kubernetes · Terraform   │
  │  DATA            PostgreSQL · MongoDB · Kafka · Firebase · Redis │
  │  DEVOPS          Jenkins · Git · Postman · CI/CD                 │
+ │  AI              RAG · LangChain · LangGraph · LLM               │
  └──────────────────────────────────────────────────────────────────┘
 ```
 
