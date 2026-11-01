@@ -6,7 +6,7 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Space+Mono&size=18&pause=1000&color=818CF8&center=true&vCenter=true&multiline=true&width=700&height=80&lines=🤖+Building+LLM+systems+%26+RAG+pipelines+in+production;⚙️+Architecting+scalable+platforms+with+Python+%26+AWS;🎓+Research+Assistant+%40+University+at+Buffalo)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Space+Mono&size=18&pause=1000&color=818CF8&center=true&vCenter=true&multiline=true&width=700&height=80&lines=🤖+Building+LLM+systems+%26+RAG+pipelines+in+production;⚙️+Architecting+scalable+platforms+with+Python+%26+AWS;🎓+AI+%40+Engineer)](https://git.io/typing-svg)
 
 </div>
 
@@ -16,7 +16,7 @@
 
 [![Portfolio](https://img.shields.io/badge/🌐%20Portfolio-vaibhavbansal.in-6366f1?style=for-the-badge&labelColor=0f0c29)](https://www.vaibhavbansal.in)&nbsp;
 [![LeetCode](https://img.shields.io/badge/⚡%20LeetCode-vaibhav__bansal26-FFA116?style=for-the-badge&labelColor=0f0c29)](https://leetcode.com/vaibhav_bansal26)&nbsp;
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&labelColor=0f0c29)](https://linkedin.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&labelColor=0f0c29)](https://www.linkedin.com/in/vaibhavbansal-profile/)
 
 </div>
 
