@@ -117,7 +117,7 @@
 ## 🏛 Experience
 
 ```
-🔬  AI Research Engineer         University at Buffalo, NY      
+🔬  AI Research Engineer         University at Buffalo, NY       Past
 🎓  M.S. Engineering Science     University at Buffalo, NY       Alumni
 📚  Graduate Student Assistant   Applied ML at Scale (CDA 500)   Spring 2025
 🎓  Teaching Assistant           Programming & DB Fundamentals   Fall 2024
