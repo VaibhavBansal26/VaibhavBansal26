@@ -44,7 +44,7 @@
 ```
  ┌──────────────────────────────────────────────────────────────────┐
  │  FRONTEND        React · Next.js · TypeScript · TailwindCSS      │
- │  BACKEND         Python · Java · Node.js · Flask                 │
+ │  BACKEND         Python · Java · Node.js · Flask  · FastAPI      │
  │  CLOUD & INFRA   AWS · Azure · Docker · Kubernetes · Terraform   │
  │  DATA            PostgreSQL · MongoDB · Kafka · Firebase · Redis │
  │  DEVOPS          Jenkins · Git · Postman · CI/CD                 │
