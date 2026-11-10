@@ -39,7 +39,7 @@
 
 ---
 
-## ⚙️ Full-Stack Engineering
+## ⚙️ Full-Stack Software Engineering
 
 ```
  ┌──────────────────────────────────────────────────────────────────┐
