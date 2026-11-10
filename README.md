@@ -28,7 +28,7 @@
 
 <div align="center">
 
-| 🧠 LLM Architecture | 🔍 RAG Pipelines | 📊 Applied ML at Scale |
+| 🧠 LLM Architecture | 🔍 RAG Pipelines | 📊 Applied Machine Learning at Scale |
 |:---:|:---:|:---:|
 | Production-grade LLM systems, prompt engineering, multi-agent workflows | Vector DBs · Embeddings · Retrieval & Reranking | TensorFlow · Distributed training · Model deployment |
 | `LangChain` `OpenAI API` `Anthropic` `LangGraph` | `FAISS` `Pinecone` `Weaviate` | `TensorFlow` `HuggingFace` `Kaggle` |
